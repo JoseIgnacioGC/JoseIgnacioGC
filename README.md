@@ -28,10 +28,14 @@ Busco continuamente aprender y mejorar mis habilidades para mantenerme al día c
 [![Next.js](https://img.shields.io/badge/Next.js-4479A1?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-3c873a?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![express.js](https://img.shields.io/badge/express.js-4479A1?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+</br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Mongoose](https://img.shields.io/badge/mongoose-3FA037?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Sequelize](https://img.shields.io/badge/sequelize-4479A1?style=for-the-badge&logo=sequelize&logoColor=white&labelColor=101010)]()
+</br>
+[![Jest](https://img.shields.io/badge/Jest-F0DB4F?style=for-the-badge&logo=jest&logoColor=white&labelColor=101010)]()
+[![Cypress](https://img.shields.io/badge/Cypress-5c5c5e?style=for-the-badge&logo=cypress&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 
