@@ -39,5 +39,10 @@ Busco continuamente aprender y mejorar mis habilidades para mantenerme al día c
 </br>
 Y alguna más...
 
+## Editores de código:
+[![VsCode](https://img.shields.io/badge/VSCode-3FA037?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+[![Neovim](https://img.shields.io/badge/neovim-3FA037?style=for-the-badge&logo=neovim&logoColor=white&labelColor=101010)]()
+
 ## Actualmente estoy...
+
 - Creando Proyectos para mi portafolios
