@@ -1,11 +1,11 @@
-# Hola, mi nombre es José Ignacio 👋
+# Hola, soy José Ignacio 🗿
 
 ![GitHub Followers](https://img.shields.io/github/followers/JoseIgnacioGc?style=social)
 ![GitHub Starts](https://img.shields.io/github/stars/JoseIgnacioGc?style=social)
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Ignacio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joseignaciogc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Ignacio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joseignaciogc/)
 
 <!-- [![Web](https://img.shields.io/badge/<e.g. jose.com>-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](<e.g. jose.com>) -->
 
@@ -13,11 +13,11 @@
 
 ### Fullstack web
 
-Soy un desarrollador web fullstack con conocimientos en TypeScript, JavaScript, Node.js, React.js, Next.js, HTML, CSS, SQL y NoSQL. Tengo experiencia con pruebas unitarias usando Jest y pruebas End-to-End con Cypress. También doy prioridad a la aplicación de principios SOLID y conceptos de programación funcional a mi código.
+Soy un desarrollador fullstack web con experiencia creando páginas web, APIs en backend, bases de datos con diferentes sistemas de gestión y variados tipos de test de código. Como pruebas unitarias y de integración, y pruebas End-to-End en frontend.
 
-He practicado creando proyectos que me han permitido formar y utilizar mis habilidades y conocimientos para crear aplicaciones más eficientes, escalables y mantenibles.
+Doy prioridad a al código declarativo y utilizo conceptos de programación funcional para mayor legibilidad y mantenibilidad del código.
 
-Busco continuamente aprender y mejorar mis habilidades para mantenerme al día con las últimas tecnologías y tendencias de la industria. Me apasiona la tecnología y disfruto aprendiendo cosas nuevas, por lo que siempre estoy buscando oportunidades para expandir mis conocimientos y habilidades.
+He practicado y práctico produciendo proyectos que me han permitido formar y emplear mis habilidades y conocimientos para crear aplicaciones más eficientes, escalables y mantenibles.
 
 ## Tecnologías:
 
@@ -37,6 +37,7 @@ Busco continuamente aprender y mejorar mis habilidades para mantenerme al día c
 [![Jest](https://img.shields.io/badge/Jest-F0DB4F?style=for-the-badge&logo=jest&logoColor=white&labelColor=101010)]()
 [![Cypress](https://img.shields.io/badge/Cypress-5c5c5e?style=for-the-badge&logo=cypress&logoColor=white&labelColor=101010)]()
 </br>
+<!-- TODO: tecnologías complementarias (docker y git) -->
 Y alguna más...
 
 ## Editores de código:
@@ -45,4 +46,5 @@ Y alguna más...
 
 ## Actualmente estoy...
 
-- Creando Proyectos para mi portafolios
+- Creando Proyectos para mi portafolio
+- Introduciéndome en conceptos avanzados del lenguaje rust
