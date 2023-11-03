@@ -17,7 +17,7 @@ Soy un desarrollador fullstack web con experiencia creando páginas web, APIs en
 
 Doy prioridad a al código declarativo y utilizo conceptos de programación funcional para mayor legibilidad y mantenibilidad del código.
 
-He practicado y práctico produciendo proyectos que me han permitido formar y emplear mis habilidades y conocimientos para crear aplicaciones más eficientes, escalables y mantenibles.
+He practicado y practico produciendo proyectos que me han permitido formar y emplear mis habilidades y conocimientos para crear aplicaciones más eficientes, escalables y mantenibles.
 
 ## Tecnologías:
 
