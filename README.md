@@ -46,6 +46,7 @@ He practicado y práctico produciendo proyectos que me han permitido formar y em
 
 [![VsCode](https://img.shields.io/badge/VSCode-3FA037?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![Neovim](https://img.shields.io/badge/neovim-3FA037?style=for-the-badge&logo=neovim&logoColor=white&labelColor=101010)]()
+</br>
 Y alguna más...
 
 ## Actualmente estoy...
