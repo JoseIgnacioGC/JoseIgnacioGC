@@ -36,13 +36,17 @@ He practicado y práctico produciendo proyectos que me han permitido formar y em
 </br>
 [![Jest](https://img.shields.io/badge/Jest-F0DB4F?style=for-the-badge&logo=jest&logoColor=white&labelColor=101010)]()
 [![Cypress](https://img.shields.io/badge/Cypress-5c5c5e?style=for-the-badge&logo=cypress&logoColor=white&labelColor=101010)]()
-</br>
-<!-- TODO: tecnologías complementarias (docker y git) -->
-Y alguna más...
 
-## Editores de código:
+### Tecnologías complementarias
+
+[![Docker](https://img.shields.io/badge/docker-1d97ee?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+
+### Editores de código
+
 [![VsCode](https://img.shields.io/badge/VSCode-3FA037?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![Neovim](https://img.shields.io/badge/neovim-3FA037?style=for-the-badge&logo=neovim&logoColor=white&labelColor=101010)]()
+Y alguna más...
 
 ## Actualmente estoy...
 
