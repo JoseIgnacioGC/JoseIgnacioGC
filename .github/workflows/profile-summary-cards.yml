@@ -1,0 +1,37 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Se ejecuta automáticamente todos los días a medianoche
+  workflow_dispatch:      # Permite ejecutarlo manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: JoseIgnacioGC
+          THEME: radical
+          AUTO_PUSH: false
+
+      - name: Move cards to assets
+        run: |
+          mkdir -p assets
+          cp -r profile-summary-card-output/radical/* assets/
+          rm -rf profile-summary-card-output
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          # Limpia la carpeta antigua si existía en git y comitea los cambios
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update profile summary cards in assets"
+          git push

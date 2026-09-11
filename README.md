@@ -1,8 +1,13 @@
 # Hola, soy José Ignacio 🗿
 
-<!-- ![GitHub Followers](https://img.shields.io/github/followers/JoseIgnacioGc?style=social) -->
-<!-- ![GitHub Starts](https://img.shields.io/github/stars/JoseIgnacioGc?style=social) -->
+![GitHub Followers](https://img.shields.io/github/followers/JoseIgnacioGc?style=social)
+![GitHub Starts](https://img.shields.io/github/stars/JoseIgnacioGc?style=social)
 
-<!-- https://www.linkedin.com/in/joseignaciogc/ -->
+https://www.linkedin.com/in/joseignaciogc/
 
-![más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseIgnacioGC&langs_count=8&layout=donut&theme=radical)
+![Commits por Lenguaje](./assets/1-profile-commit-language.svg)
+
+<p align="center">
+  <img src="./assets/0-profile-details.svg" alt="Detalles de perfil" />
+  <img src="./assets/1-profile-commit-language.svg" alt="Commits por lenguaje" />
+</p>
