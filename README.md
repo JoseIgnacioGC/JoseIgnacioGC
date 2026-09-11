@@ -6,5 +6,5 @@
 ----------
 
 <p align="center">
-  <img src="./assets/2-most-commit-language.svg" alt="Lenguajes con más commits"/>
+  <img src="./assets/2-most-commit-language.svg" alt="Lenguajes con más commits" width="100%"/>
 </p>
